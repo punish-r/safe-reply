@@ -58,3 +58,5 @@ import { reply } from 'pasta/do/arquivo/safe-reply';
 ```js
 const { reply } = require('./pasta/do/arquivo/safe-reply');
 ```
+
+> ❤️ Espero que essa função ajude vocês com desenvolvimento de suas aplicações!!!
